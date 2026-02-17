@@ -14,7 +14,7 @@ int main() {
   for (int i = 0; i < 4; i++){
     if (data.at(i) == data.at(i+1)){
       exist = true;
-      break;
+      break; //見つかったら処理終了
     }
   }
   
