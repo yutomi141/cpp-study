@@ -1,4 +1,5 @@
-#include <bits/stdc++.h>
+#include <iostream>
+#include <string>
 using namespace std;
 
 // 以下に、24時間表記の時計構造体 Clock を定義する
