@@ -16,3 +16,5 @@ a.out
 !*.*
 # 4. .gitignore自体も無視しない
 !.gitignore
+
+.vscode/
